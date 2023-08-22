@@ -1,6 +1,9 @@
 # Index del Branch
 ### Este es un header nivel 3
-###### Y este un nivel 6
+###### Aquí una lista de tareas
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ``` javascript
 var myVar = "Hello, world!";
 ```
